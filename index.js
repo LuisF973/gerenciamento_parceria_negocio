@@ -15,6 +15,6 @@ lerParcerias();
 //lerParcerias();
 
 
-deletarParceria("1235476")
-lerParcerias();
+// deletarParceria("1235476")
+// lerParcerias();
 
